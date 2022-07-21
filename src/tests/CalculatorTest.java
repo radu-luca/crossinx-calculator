@@ -1,4 +1,4 @@
-package UnitTest;
+package tests;
 
 import calculator.Calculator;
 import exceptions.InvalidOperatorException;
